@@ -26,7 +26,6 @@ span.cls_016{font-family:Arial,serif;font-size:9.8px;color:rgb(81,81,81);font-we
 div.cls_016{font-family:Arial,serif;font-size:9.8px;color:rgb(81,81,81);font-weight:bold;font-style:normal;text-decoration: none}
 -->
 </style>
-<script type="text/javascript" src="29ed85c4-3654-11ea-a5fd-0cc47a792c0a_id_29ed85c4-3654-11ea-a5fd-0cc47a792c0a_files/wz_jsgraphics.js"></script>
 </head>
 <body>
 <div style="position:absolute;left:50%;margin-left:-297px;top:0px;width:595px;height:842px;border-style:outset;overflow:hidden">
