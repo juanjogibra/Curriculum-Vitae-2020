@@ -1,6 +1,5 @@
 <html>
 <head><meta http-equiv=Content-Type content="text/html; charset=UTF-8">
-<style type="text/css">
 <!--
 span.cls_003{font-family:Arial,serif;font-size:18.1px;color:rgb(0,0,0);font-weight:bold;font-style:normal;text-decoration: none}
 div.cls_003{font-family:Arial,serif;font-size:18.1px;color:rgb(0,0,0);font-weight:bold;font-style:normal;text-decoration: none}
