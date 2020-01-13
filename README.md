@@ -24,7 +24,6 @@ div.cls_015{font-family:Arial,serif;font-size:12.1px;color:rgb(81,81,81);font-we
 span.cls_016{font-family:Arial,serif;font-size:9.8px;color:rgb(81,81,81);font-weight:bold;font-style:normal;text-decoration: none}
 div.cls_016{font-family:Arial,serif;font-size:9.8px;color:rgb(81,81,81);font-weight:bold;font-style:normal;text-decoration: none}
 -->
-</style>
 </head>
 <body>
 <div style="position:absolute;left:50%;margin-left:-297px;top:0px;width:595px;height:842px;border-style:outset;overflow:hidden">
